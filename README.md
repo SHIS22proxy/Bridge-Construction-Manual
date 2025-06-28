@@ -26,7 +26,7 @@ mkdocs serve
 
 
 Author: Shishir S Tambe
-
+Directly see the artcile on : https://shis22proxy.github.io/Bridge-Construction-Manual/
 ---
 
 Let me know if you want to:
